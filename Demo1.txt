@@ -1,0 +1,6 @@
+User juanperdigon
+
+user juan
+password 1234
+
+ssh key path /home/juan/.ssh/id_rsa
